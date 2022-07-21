@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/YayoKB/fem-base-apparel-coming-soon-page)
-- Live Site URL: [Add live site URL here](https://yayokb.github.io/fem-base-apparel-coming-soon-page)
+- Live Site URL: [GitHub Pages](https://yayokb.github.io/fem-base-apparel-coming-soon-page)
 
 ## My process
 
