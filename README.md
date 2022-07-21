@@ -50,4 +50,4 @@ I learned more about gradients and when an element requires either `background-c
 ## Author
 
 - GitHub - [YayoKB](https://github.com/YayoKB)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/YayoKB)
+- Frontend Mentor - [@YayoKB](https://www.frontendmentor.io/profile/YayoKB)
