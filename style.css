@@ -30,7 +30,7 @@ html {
   height: 100%;
   background-image: var(--gradient-1);
   display: grid;
-  grid-template-rows: 5.25rem 31% 1fr;
+  grid-template-rows: 5.25rem 31% auto;
 }
 
 header {
@@ -143,13 +143,12 @@ header {
   margin-left: 1.5rem;
 }
 
-@media screen and (min-width: 40rem) {
+@media screen and (min-width: 50rem) {
   .wrapper {
     grid-template-columns: 58% 42%;
     grid-template-rows: auto 1fr;
     background-image: url("./images/bg-pattern-desktop.svg");
-    background-position: cover;
-    background-repeat: no-repeat;
+    background-size: 58% 100%;
   }
 
   header {
@@ -166,6 +165,7 @@ header {
 
   .hero {
     background-image: url("./images/hero-desktop.jpg");
+    grid-column: 2;
     grid-row: span 2;
   }
 
